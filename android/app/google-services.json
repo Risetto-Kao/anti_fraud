@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "220461272066",
+    "firebase_url": "https://anti-fraud-flutter-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "anti-fraud-flutter",
+    "storage_bucket": "anti-fraud-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220461272066:android:b1ca6d8ead62e9479deb1b",
+        "android_client_info": {
+          "package_name": "com.example.anti_fraud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220461272066-rmkp1l31mgp5dd0a10ijcobko3b25418.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Ggmihbw3PNWzI8cp1pSembk-hks4OWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220461272066-rmkp1l31mgp5dd0a10ijcobko3b25418.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220461272066-nq0p09tr0b8i89qi4155o1fshsupigeg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.antiFraud"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
